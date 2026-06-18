@@ -81,8 +81,7 @@ const URB_NOMBRES = {
 
 const USUARIOS_AUTORIZADOS = {
     'admin': { password: 'admin', tipo: 'administrador' },
-    'blanca.choque': { password: 'Red_1', tipo: 'administrador' },
-    'olga.cahuana': { password: 'Red_2', tipo: 'administrador' }
+    'maribel.venegas': { password: 'maribel2026', tipo: 'administrador' }
 };
 
 // Usuarios secundarios - solo pueden cambiar de DISPONIBLE a RESERVADO
